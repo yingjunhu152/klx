@@ -30,3 +30,9 @@ a2=input("请输入第二个数字")
 a1=int(a1) 
 a2=int(a2)
 print(type(a1))
+print(a1+a2)
+
+#git status告诉自己有哪些改动
+#git add .意思是把所有的改动告诉机器
+#git commit -m "文本" 把改动放到缓存区
+#git push origin master 传到github
